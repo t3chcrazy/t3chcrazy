@@ -6,7 +6,7 @@ Hello there, I am Abhishek Prashant. I am a software developer currently working
 
 ## **Skillset**
 <div style = "display: flex;">
-    <img src = "https://drive.google.com/uc?export=view&id=13k83VPahZZpwpz78IkDmSEUCBQnz1bGC" width = "30px" height = "30px" style = "margin-right: 15px" />
+    <img src = "img/python.svg" width = "30px" height = "30px" style = "margin-right: 15px" />
     <img src = "https://drive.google.com/uc?export=view&id=1ufwO2lHfq4r-m6kFSw2t23omwtLdPiSr" width = "30px" height = "30px" style = "margin-right: 15px" />
     <img src = "https://drive.google.com/uc?export=view&id=1ezMQkTO0Pj3eFvRjOI5Ieyjz6aEG2Jtm" width = "30px" height = "30px" style = "margin-right: 15px" />
     <img src = "https://drive.google.com/uc?export=view&id=1B2Q9p5UN2f1oZ1T1UAzkqhlryeamEOCL" width = "30px" height = "30px" style = "margin-right: 15px" />
