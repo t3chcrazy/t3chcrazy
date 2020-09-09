@@ -1,8 +1,8 @@
-## **Welcome to my github profile!**
+## **Welcome!**
 
 ## **About Me**
 
-Hello there, I am Abhishek Prashant. I am a software developer currently working with React Native. I really like Python and Javascript but I am always looking to expand my tech stack to keep up with the IT industry requirements. When I am not coding, I like to read novels, watch TV shows and play video games.
+Hello there, I am Abhishek Prashant, A software developer currently working with React Native and Flutter. I really like Python and Javascript but I am always looking to expand my tech stack to keep up with the IT industry requirements. When I am not coding, I like to read novels, watch TV shows and play video games.
 
 ## **Skillset**
 - Python
